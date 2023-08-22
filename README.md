@@ -18,7 +18,6 @@ Skills: C++ / JAVA / MySQL
 <a href="https://instagram.com/arefxnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arefxnj" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/agigachad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agigachad" height="30" width="40" /></a>
 <a href="https://discord.gg/ArefXnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArefXnj" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/id/ArefxNj" target="blank" > <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://banner2.cleanpng.com/20180626/ub/kisspng-steam-mervils-a-vr-adventure-computer-icons-perso-steam-engine-5b32ee81d03a36.7853527115300645138529.jpg)" alt="aref-najmaddini-87780a249" height="30" width="40"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
