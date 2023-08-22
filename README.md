@@ -18,6 +18,7 @@ Skills: C++ / JAVA / MySQL
 <a href="https://instagram.com/arefxnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arefxnj" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/agigachad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agigachad" height="30" width="40" /></a>
 <a href="https://discord.gg/ArefXnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArefXnj" height="30" width="40" /></a>
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/aref-najmaddini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/ArefxNj/)  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
