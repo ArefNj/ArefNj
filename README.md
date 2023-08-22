@@ -6,10 +6,10 @@ A computer engineering student at Yazd University in Iran just started in 2021. 
 
 Skills: C++ / JAVA / MySQL 
 
-- 🔭 I’m currently working on My self (: 
+- 🔭 I’m currently working on My self :) 
 - 🌱 I’m currently learning JAVA and Design Patterns 
 - 📫 How to reach me: Aref.Najmaddini@gmail.com 
-- ⚡ Fun fact: an INXJ :| 
+- ⚡ Fun fact: an INXJ :) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArefNj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aref-najmaddini-87780a249/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arefxnj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ArefNajm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ArefNajm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/aref-najmaddini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/ArefxNj/)  
