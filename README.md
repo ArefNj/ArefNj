@@ -43,9 +43,9 @@ Skills: C++ / JAVA / MySQL
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArefNj&theme=dark&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArefNj&show_icons=true)  
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 [![](https://visitcount.itsvg.in/api?id=arefxnj&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
