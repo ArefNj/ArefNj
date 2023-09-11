@@ -19,6 +19,9 @@ Skills: C++ / JAVA / MySQL
 <a href="https://codeforces.com/profile/agigachad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="agigachad" height="30" width="40" /></a>
 <a href="https://discord.gg/ArefXnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArefXnj" height="30" width="40" /></a>
 </p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arefnajmaddini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/arefnajmaddini?trk=profile-badge">Aref Najmaddini</a></div>
+              
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
