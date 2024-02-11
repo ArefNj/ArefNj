@@ -7,7 +7,7 @@ A computer engineering student at Yazd University in Iran just started in 2021. 
 Skills: C++ / JAVA / MySQL / Python
 
 - 🔭 I’m currently working on Machin learning 
-- 🌱 I’m currently learning JAVA, Python and some Design Patterns 
+- 🌱 I’m currently learning Machin learning and Deep learning 
 - 📫 How to reach me: Aref.Najmaddini@gmail.com 
 - ⚡ Fun fact: an INXJ :) 
 
