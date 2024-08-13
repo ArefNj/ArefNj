@@ -2,9 +2,9 @@
 #### I'm a software engineer student
 ![I'm a software engineer student](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-A computer engineering student at Yazd University in Iran just started in 2021. I hope we can learn a lot from each other. As a Java developer and a teacher assistant who teaches advanced programming, I enjoy teaching Java to others and acquiring new skills.
+A computer engineering student at Yazd University in Iran just started in 2021. I hope we can learn a lot from each other. As a Java & Python developer and a teacher assistant who teaches Advanced Programming, DS & Algorithms, I enjoy teaching to others and acquiring new skills.
 
-Skills: C++ / JAVA / MySQL / Python
+Skills: JAVA / Python / TypeScript 
 
 - 🔭 I’m currently working on Machin learning 
 - 🌱 I’m currently learning Machin learning and Deep learning 
@@ -23,9 +23,7 @@ Skills: C++ / JAVA / MySQL / Python
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"   height="40"/> 
-</a> 
+</a>  
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -39,15 +37,15 @@ Skills: C++ / JAVA / MySQL / Python
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-</a> 
+</a>  
 </p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArefNj&theme=dark&show_icons=true)  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![](https://spotify-recently-played-readme.vercel.app/api?user=b8u6h5by2hkwvfjitbekc4a6j)
 
 [![](https://visitcount.itsvg.in/api?id=arefxnj&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
