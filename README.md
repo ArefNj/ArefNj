@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Aref
-
 #### Software Engineer · AI Engineer
 
 ![I'm a software engineer](https://raw.githubusercontent.com/saadeghi/saadeghi/master/src/assets/dino.gif)
@@ -8,7 +7,7 @@ Computer Engineering graduate from Yazd University, interested in **software eng
 
 I enjoy building software, exploring new technologies, and teaching what I learn. I've worked with **Java and Python**, and I'm currently focusing on **Agentic AI and agentic workflows**.
 
-I'm currently working on my research and personal projects, and I'm open to opportunities in **AI and software engineering**.
+I'm currently working on my research and personal projects, and I'm open to opportunities in **AI and agentic software engineering**.
 
 * 🔭 Currently working on **Agentic Software Development & Research**
 * 🌱 Currently learning **Agentic AI & Agentic Workflows**
@@ -39,8 +38,6 @@ I'm currently working on my research and personal projects, and I'm open to oppo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArefNj\&theme=dark\&show_icons=true)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
 
